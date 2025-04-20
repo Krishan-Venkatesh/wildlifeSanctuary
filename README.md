@@ -269,20 +269,6 @@ Before running the project, ensure you have the following installed:
 1. Start MongoDB service
 2. The application will create necessary collections automatically
 
-### Default Users
-
-The system comes with these default users:
-
-1. **Manager**
-   - Username: manager@wildlife.com
-   - Password: manager123
-   - Role: MANAGER
-
-2. **Caretaker**
-   - Username: caretaker@wildlife.com
-   - Password: caretaker123
-   - Role: CARETAKER
-
 ### Troubleshooting
 
 1. **Backend Issues**
