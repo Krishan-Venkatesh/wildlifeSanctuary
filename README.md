@@ -25,6 +25,25 @@ The application follows a layered architecture pattern:
    - MongoDB integration
    - Security configuration
    - External service integrations
+  
+**My Contributions**
+
+I contributed to both the frontend and backend development of the project.
+
+**Frontend**
+- Developed `AnimalForm.tsx` for adding animal records
+- Created `AnimalList.tsx` for displaying and filtering animals
+- Implemented state management using React Context API
+- Set up navigation with React Router
+- Styled components with Bootstrap
+
+**Backend**
+- Implemented the caretaker module with entity definitions and relationships
+- Built REST APIs for caretaker operations (add, list, assign)
+- Added service layer logic for caretaker assignment and validation
+- Applied the Repository Pattern for data access via `CaretakerRepository`
+- Integrated caretaker APIs with the frontend
+
 
 ## Design Principles
 
