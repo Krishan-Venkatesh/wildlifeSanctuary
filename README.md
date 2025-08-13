@@ -26,7 +26,7 @@ The application follows a layered architecture pattern:
    - Security configuration
    - External service integrations
   
-**My Contributions**
+## My Contributions
 
 I contributed to both the frontend and backend development of the project.
 
